@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vipultanwar45
+- 👋 Hi, I’m @vipul-tanwar
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on Full Stack Projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Frontent Projects
 - 📫 How to reach me vipultanwar45@gmail.com
 
 <!---
