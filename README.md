@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 How to reach me vipultanwar45@gmail.com
+- 📫 How to reach me thevipultanwar@gmail.com
 
 <!---
 vipultanwar45/vipultanwar45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
