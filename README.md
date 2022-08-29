@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vipul-tanwar
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me thevipultanwar@gmail.com
 
