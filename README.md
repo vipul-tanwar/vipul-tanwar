@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipul Tanwar</h1>
 <img src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/banner.gif?token=GHSAT0AAAAAABXLNDDECU53U7ND7TEZ7FXOYYN6Y5Q" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipul-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
 
 
 - 🔭 I’m currently working on **React**
