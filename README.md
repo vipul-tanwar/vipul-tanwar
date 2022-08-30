@@ -73,7 +73,9 @@
     </tr>
 </table>
 
-<p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-tanwar&show_icons=true&locale=en&layout=compact" alt="vipul-tanwar" /></p>
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-tanwar&show_icons=true&locale=en&layout=compact" alt="vipul-tanwar" />
+</p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipul-tanwar&show_icons=true&locale=en" alt="vipul-tanwar" /></p>
 
