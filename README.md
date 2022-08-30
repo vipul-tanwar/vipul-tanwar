@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipul-tanwar&show_icons=true&locale=en" alt="vipul-tanwar" /></p>
 
-<p><img style="margin-left: 200px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-tanwar&" alt="vipul-tanwar" /></p>
+<p><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-tanwar&" alt="vipul-tanwar" /></p>
