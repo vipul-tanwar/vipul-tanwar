@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipul Tanwar</h1>
 <h3 align="center">t</h3>
-
+<img src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/banner.gif?token=GHSAT0AAAAAABXLNDDFNQRB7IRRXBAMYAJIYYN6NKA" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
 
 
