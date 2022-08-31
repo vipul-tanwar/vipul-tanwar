@@ -8,19 +8,13 @@
 
 - 🌱 I’m currently learning **Express, Axios**
 
-- 👯 I’m looking to collaborate on **Node.js**
+- 👯 I’m looking to collaborate on **Full Stack Apps (MERN)**
 
-- 🤝 I’m looking for help with **Full Stack Apps (MERN)**
-
-- 👨‍💻 All of my projects are available at [https://pirat3-platform-tawny.vercel.app/](https://pirat3-platform-tawny.vercel.app/)
-
-- 📝 I regularly write articles on [Medium](Medium)
+- 🤝 I’m looking for help with **Node.js**
 
 - 💬 Ask me about **React and Frontend Development**
 
 - 📫 How to reach me **thevipultanwar@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/thevipultanwar/](https://www.linkedin.com/in/thevipultanwar/)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -56,7 +50,7 @@
         <td><img src="https://camo.githubusercontent.com/955b7b3f9a84db5160a46ba6b2c006e2be8eff075f0d32e5c79cd5da08c872e1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6769746875622e706e67" width="80px" alt="GitHub"></td>
         <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80px"  alt="Postman"></td>
         <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="80px"  alt="Heroku"></td>
-        <td><img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" width="80px" alt="Versel"></td>
+        <td><img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png" width="80px" alt="Versel"></td>
     </tr> 
     <tr>
         <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="80px"  alt="figma"></td>
