@@ -52,7 +52,7 @@
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="80px"  alt="SAAS"></td>
         <td><img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width="80px"  alt="Tailwind"></td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="80px" alt="ReactNaitve"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="Git"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80px"  alt="Git"></td>
         <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Postman"></td>
         <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku"></td>
         <td><img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" width="80px" alt="Versel"></td>
