@@ -41,7 +41,7 @@
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80px" alt="Bootstrap"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="80px" alt="Nodejs"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"></td>
@@ -50,10 +50,11 @@
         <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="80px" alt="Nextjs"></td>
         <td><img src="https://v4.mui.com/static/logo.png" width="80px"  alt="MaterialUI"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="80px"  alt="SAAS"></td>
-        <td><img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width="80px"  alt="Tailwind"></td>
+        <td><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"width="80px"  alt="Tailwind"></td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="80px" alt="ReactNaitve"></td>
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80px"  alt="Git"></td>
-        <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Postman"></td>
+        <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80px" alt="GitHub"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></td>
         <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku"></td>
         <td><img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" width="80px" alt="Versel"></td>
     </tr> 
