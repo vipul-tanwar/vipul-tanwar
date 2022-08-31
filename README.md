@@ -29,7 +29,7 @@
 <table>
     <tr>
         <td><img src="https://camo.githubusercontent.com/8a8cd69ed5b1ad0cf4b668240056834f2f5ed899724feeea14b78fd5cd46db26/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f632d706c75732d706c75732d6c6f676f2e706e67" width="200px"    alt="C++"></td>
-        <td ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="200px"    alt="SQL"></td>
+        <td ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="200px" alt="SQL"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="200px"  alt="HTML"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="200px" alt="CSS"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200px" alt="JS"></td>
@@ -40,21 +40,21 @@
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200px"  alt="React"></td>
     </tr>    
     <tr>
-        <td width="200px"  ><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  alt="Nextjs"></td>
-        <td width="200px"  ><img src="https://v4.mui.com/static/logo.png"   alt="MaterialUI"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="SAAS"></td>
-        <td width="200px"  ><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"   alt="Tailwind"></td>
-        <td width="200px"  ><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="ReactNaitve"></td>
-        <td width="200px"  ><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="Git"></td>
-        <td width="200px"  ><img src="https://camo.githubusercontent.com/955b7b3f9a84db5160a46ba6b2c006e2be8eff075f0d32e5c79cd5da08c872e1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6769746875622e706e67"  alt="GitHub"></td>
-        <td width="200px"  ><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  alt="Postman"></td>
-        <td width="200px"  ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  alt="Heroku"></td>
-        <td width="200px"  ><img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png"  alt="Versel"></td>
+        <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  width="200px" alt="Nextjs"></td>
+        <td><img src="https://v4.mui.com/static/logo.png"  width="200px"  alt="MaterialUI"></td>
+        <td ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  width="200px" alt="SAAS"></td>
+        <td><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"  width="200px"  alt="Tailwind"></td>
+        <td><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"  width="200px" alt="ReactNaitve"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="200px"  alt="Git"></td>
+        <td><img src="https://camo.githubusercontent.com/955b7b3f9a84db5160a46ba6b2c006e2be8eff075f0d32e5c79cd5da08c872e1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6769746875622e706e67"  width="200px" alt="GitHub"></td>
+        <td ><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="200px"  alt="Postman"></td>
+        <td  ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  width="200px"  alt="Heroku"></td>
+        <td ><img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png"  width="200px"  alt="Versel"></td>
     </tr> 
     <tr>
-        <td width="200px"  ><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"></td>
-        <td width="200px"  ><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobexd"></td>
-        <td width="100px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"></td>
+        <td ><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="200px"  alt="figma"></td>
+        <td  ><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  width="200px"  alt="adobexd"></td>
+        <td   ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  width="200px"  alt="photoshop"></td>
     </tr>
 </table>
 
