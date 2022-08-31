@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Banner(frontend).gif" alt="">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipul-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
 
-<img align="right" width="400px" src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Profile.gif"></img>
+<img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif"></img>
 <h2>I'm a Front End Developer</h2>
 - 🔭 I’m currently working on **React**
 
@@ -69,7 +69,7 @@
 
 <br>  
 
-  <div align="center">
+ <div align="center">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
