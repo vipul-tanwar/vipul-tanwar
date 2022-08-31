@@ -28,16 +28,16 @@
 
 <table>
     <tr>
-        <td width="200px"  ><img src="https://camo.githubusercontent.com/8a8cd69ed5b1ad0cf4b668240056834f2f5ed899724feeea14b78fd5cd46db26/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f632d706c75732d706c75732d6c6f676f2e706e67"   alt="C++"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="SQL"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="HTML"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="CSS"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JS"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="Bootstrap"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb"></td>
-        <td width="200px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="React"></td>
+        <td width="50px"  ><img src="https://camo.githubusercontent.com/8a8cd69ed5b1ad0cf4b668240056834f2f5ed899724feeea14b78fd5cd46db26/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f632d706c75732d706c75732d6c6f676f2e706e67"   alt="C++"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="SQL"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="HTML"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="CSS"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JS"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="Bootstrap"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb"></td>
+        <td width="50px"  ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="React"></td>
     </tr>    
     <tr>
         <td width="200px"  ><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  alt="Nextjs"></td>
