@@ -53,7 +53,7 @@
         <td><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"width="80px"  alt="Tailwind"></td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="80px" alt="ReactNaitve"></td>
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80px"  alt="Git"></td>
-        <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80px" alt="GitHub"></td>
+        <td><img src="https://camo.githubusercontent.com/955b7b3f9a84db5160a46ba6b2c006e2be8eff075f0d32e5c79cd5da08c872e1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6769746875622e706e67" width="80px" alt="GitHub"></td>
         <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></td>
         <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku"></td>
         <td><img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" width="80px" alt="Versel"></td>
