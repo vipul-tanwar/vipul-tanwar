@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Banner(frontend).gif" alt="">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipul-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
 
-<img align="right" width="200rem" src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Profile.gif"></img>
+<img align="right" width="400px" src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Profile.gif"></img>
 <h3>I'm a Front End Developer</h3>
 - 🔭 I’m currently working on **React**
 
