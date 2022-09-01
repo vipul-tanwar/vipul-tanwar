@@ -52,6 +52,7 @@
         <td ><img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png"  width="200px"  alt="Versel"></td>
     </tr> 
     <tr>
+       <td ><img src="https://symbols-electrical.getvecta.com/stencil_25/40_jest.5fde12ec22.svg"  width="200px"  alt="figma"></td>
         <td ><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="200px"  alt="figma"></td>
         <td  ><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  width="200px"  alt="adobexd"></td>
         <td   ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  width="200px"  alt="photoshop"></td>
