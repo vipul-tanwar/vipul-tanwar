@@ -41,6 +41,7 @@
     </tr>    
     <tr>
         <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  width="200px" alt="Nextjs"></td>
+           <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"  width="200px" alt="TS"></td>
         <td><img src="https://v4.mui.com/static/logo.png"  width="200px"  alt="MaterialUI"></td>
         <td ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  width="200px" alt="SAAS"></td>
         <td><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"  width="200px"  alt="Tailwind"></td>
