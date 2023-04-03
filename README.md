@@ -6,11 +6,11 @@
 <h2>I'm a Front End Developer</h2>
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Express, Axios**
+- 🌱 I’m currently learning **Express**
 
 - 👯 I’m looking to collaborate on **Full Stack Apps (MERN)**
 
-- 🤝 I’m looking for help with **Node.js**
+- 🤝 I’m looking for help with **Expresss**
 
 - 💬 Ask me about **React and Frontend Development**
 
